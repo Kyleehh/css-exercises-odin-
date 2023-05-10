@@ -1,0 +1,15 @@
+    .odd-number{
+        background-color: pink;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #even1{
+        color:blue;
+        font-size: 36px;
+    }
+    #even2 {
+        background-color: lightgreen;
+        font-weight: bold;
+    }
+    .font-size{
+        font-size: 24px;
+    }
